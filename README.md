@@ -12,9 +12,3 @@ My research focuses on **SLAM**, **3D reconstruction**, and **active perception*
 ### 🚀 Currently
 - 👨‍🏫 Assistant Professor @ Sapienza University of Rome
 - 🤖 Co-founder of [Z-up](https://www.zedup.it/) — robotic perception & simulation for the real world
-
-### 🔗 Find me
-- 🌐 Website: **[digiamm.github.io](https://digiamm.github.io)**
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=cZeizisAAAAJ)
-- 💼 [LinkedIn](https://www.linkedin.com/in/digiamm)
-- 🆔 [ORCID](http://orcid.org/0000-0002-1332-3496)
