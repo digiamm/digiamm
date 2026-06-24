@@ -1,6 +1,6 @@
 # Hey, I'm Luca 👋
 
-I build the algorithms that tell robots where they are and what's around them.
+Making robots a little less lost, one map at a time.
 
 **Assistant Professor at [Sapienza University of Rome](https://www.uniroma1.it/)**, where I co-lead the [Robot Vision & Perception (RVP) group](https://www.rvp-group.net) together with Prof. Giorgio Grisetti.
 
